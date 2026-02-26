@@ -4,7 +4,7 @@
 
 # 🔥 DEADPHP — Custom PHP MVC Framework
 
-**DEADPHP** is a lightweight, **custom MVC framework** built with pure PHP — no composer, no Laravel, no dependencies.
+**DEADPHP** is a lightweight, **custom MVC framework** built with pure PHP — no Laravel, no dependencies, no any framework.
 
 Designed for:
 - Beginners learning MVC
