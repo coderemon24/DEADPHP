@@ -52,8 +52,6 @@ class Route
         }
 
 
-
-
         /**
          * {{  
          * 
@@ -69,6 +67,6 @@ class Route
 
     public static function view($view)
     {
-        return include_once __DIR__."/../views/$view.php";
+        return include_once __DIR__."/../../views/$view.php";
     }
 }

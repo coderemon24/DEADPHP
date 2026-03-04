@@ -7,7 +7,6 @@ use App\Core\Application;
 $app = new Application();   //create an instance of Application class
 
 require "../routes/web.php";
-//require "../app/Http/Controllers/Controller.php";
 
 
 
